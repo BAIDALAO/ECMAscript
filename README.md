@@ -1,0 +1,2 @@
+# ECMAscript
+a little script
